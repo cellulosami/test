@@ -2194,7 +2194,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1266477428}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -3.852, y: 2.99, z: 0}
+  m_LocalPosition: {x: -4.8, y: 3.09, z: 0}
   m_LocalScale: {x: 1.8774381, y: 3.4728577, z: 0.50000006}
   m_Children:
   - {fileID: 2120231533}
@@ -2223,9 +2223,10 @@ MonoBehaviour:
     m_Bits: 55
   m_GroundCheck: {fileID: 1271414806}
   m_CeilingCheck: {fileID: 1051061738}
+  k_GroundedRadius: 0.67
   canJump: 0
   isGrounded: 0
-  checkSlopeDistance: 0.5
+  checkSlopeDistance: 1
   isOnSlope: 0
   zeroFriction: {fileID: 6200000, guid: fc647b094c525b947939a2f78bc67d16, type: 2}
   fullFriction: {fileID: 6200000, guid: 9800cc30d6e374349818790b10963b34, type: 2}
@@ -2294,7 +2295,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1271414805}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.468, z: 0}
+  m_LocalPosition: {x: 0, y: -0.31, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1266477432}

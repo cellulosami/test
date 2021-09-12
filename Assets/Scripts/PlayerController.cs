@@ -10,7 +10,7 @@ public class PlayerController : MonoBehaviour
 	[SerializeField] private Transform m_GroundCheck;                           // A position marking where to check if the player is grounded.
 	[SerializeField] private Transform m_CeilingCheck;                          // A position marking where to check for ceilings
 
-	const float k_GroundedRadius = .1f; // Radius of the overlap circle to determine if grounded
+	public float k_GroundedRadius = .2f; // Radius of the overlap circle to determine if grounded
 	public bool canJump;            // Whether or not the player can jump.
 	const float k_CeilingRadius = .2f; // Radius of the overlap circle to determine if the player can stand up
 	private Rigidbody2D m_Rigidbody2D;
@@ -44,7 +44,7 @@ public class PlayerController : MonoBehaviour
 
 	private void CheckGround()
     {
-		isGrounded = Physics2D.OverlapCircle(m_GroundCheck.position, k_GroundedRadius, m_WhatIsGround);
+		isGrounded = (Physics2D.OverlapCircle(m_GroundCheck.position, k_GroundedRadius, m_WhatIsGround));
 		if (isGrounded)
         {
 			jumpBufferTimeRemaining = jumpBufferTime;
@@ -85,7 +85,7 @@ public class PlayerController : MonoBehaviour
 	public void Move(float move, bool jump, bool jumping)
 	{
 		//Don't slide down slopes
-		if (isOnSlope && move == 0)
+		if (move == 0 && isGrounded)
 		{
 			m_Rigidbody2D.sharedMaterial = fullFriction;
 		}
