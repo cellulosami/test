@@ -517,10 +517,10 @@ TextureImporter:
     second: mainlevbuild_170
   - first:
       213: -2568180223741255568
-    second: mainlevbuild_171
+    second: platform1.1
   - first:
       213: 6796828818626706570
-    second: mainlevbuild_172
+    second: platform2.1
   - first:
       213: 1738641858471415101
     second: mainlevbuild_173
@@ -541,7 +541,7 @@ TextureImporter:
     second: slope_right_2.1
   - first:
       213: 1337758306422896273
-    second: mainlevbuild_179
+    second: slope_left1.1
   - first:
       213: -8667179122611184369
     second: mainlevbuild_180
@@ -571,10 +571,10 @@ TextureImporter:
     second: mainlevbuild_188
   - first:
       213: 7811369345054747302
-    second: mainlevbuild_189
+    second: platform1.2
   - first:
       213: 8403181445361896682
-    second: mainlevbuild_190
+    second: platform2.2
   - first:
       213: -9123833027992490936
     second: mainlevbuild_191
@@ -598,10 +598,10 @@ TextureImporter:
     second: slope_right_2.2
   - first:
       213: -5206475207040008224
-    second: mainlevbuild_198
+    second: slope_left1.2
   - first:
       213: 8867294401304736320
-    second: mainlevbuild_199
+    second: slope_left2.1
   - first:
       213: 5932387098088764532
     second: mainlevbuild_200
@@ -643,16 +643,16 @@ TextureImporter:
     second: mainlevbuild_212
   - first:
       213: -3820419923358533734
-    second: mainlevbuild_213
+    second: grass_tower_top_left1
   - first:
       213: 1860431943325843098
-    second: mainlevbuild_214
+    second: grass_tower_top_left2
   - first:
       213: -7686151815815146004
-    second: mainlevbuild_215
+    second: grass_tower_top_right1
   - first:
       213: -7427787648995003565
-    second: mainlevbuild_216
+    second: grass_tower_top_right2
   - first:
       213: -4674149170079055235
     second: slope_right_1.2
@@ -661,10 +661,10 @@ TextureImporter:
     second: slope_right_2.3
   - first:
       213: -703861553815073460
-    second: mainlevbuild_219
+    second: slope_left1.3
   - first:
       213: -7837226088529743114
-    second: mainlevbuild_220
+    second: slope_left2.2
   - first:
       213: -2599640072668932264
     second: mainlevbuild_221
@@ -694,16 +694,16 @@ TextureImporter:
     second: mainlevbuild_229
   - first:
       213: 3865685970315597461
-    second: mainlevbuild_230
+    second: grass_tower_top_left3
   - first:
       213: -7134080742931266964
-    second: mainlevbuild_231
+    second: grass_tower_top_left4
   - first:
       213: -6050010347336617525
-    second: mainlevbuild_232
+    second: grass_tower_top_right3
   - first:
       213: -472135665612965807
-    second: mainlevbuild_233
+    second: grass_tower_top_right4
   - first:
       213: 1612325413111131419
     second: slope_right_1.3
@@ -712,10 +712,10 @@ TextureImporter:
     second: slope_right_2.4
   - first:
       213: -7420701680308607944
-    second: mainlevbuild_236
+    second: slope_left1.4
   - first:
       213: -4131531275713654385
-    second: mainlevbuild_237
+    second: slope_left2.3
   - first:
       213: 2595664616036372621
     second: mainlevbuild_238
@@ -739,46 +739,46 @@ TextureImporter:
     second: mainlevbuild_244
   - first:
       213: 7011303136721294629
-    second: mainlevbuild_245
+    second: bridge_edge_left1
   - first:
       213: -8459431717670605315
-    second: mainlevbuild_246
+    second: bridge1.1
   - first:
       213: -5569660763206454745
-    second: mainlevbuild_247
+    second: bridge2.1
   - first:
       213: 3373352249098669145
-    second: mainlevbuild_248
+    second: bridge3.1
   - first:
       213: 1388685878883742252
-    second: mainlevbuild_249
+    second: bridge44.1
   - first:
       213: 8390786061719531713
-    second: mainlevbuild_250
+    second: bridge_edge_right_grass1
   - first:
       213: -3932830953828603757
-    second: mainlevbuild_251
+    second: bridge_edge_right_grass3
   - first:
       213: -5199324009736117121
-    second: mainlevbuild_252
+    second: bridge_edge_left_grass4
   - first:
       213: 5293539977460640640
-    second: mainlevbuild_253
+    second: bridge_edge_left_grass4
   - first:
       213: 6494016604576132918
-    second: mainlevbuild_254
+    second: bridge5.1
   - first:
       213: 3277156818256306328
-    second: mainlevbuild_255
+    second: bridge6.1
   - first:
       213: -2099246198106215295
-    second: mainlevbuild_256
+    second: bridge7.1
   - first:
       213: 1254002999360673458
-    second: mainlevbuild_257
+    second: bridge8.1
   - first:
       213: 3406183843827112810
-    second: mainlevbuild_258
+    second: bridge_edge_right1
   - first:
       213: -1065612113382447723
     second: mainlevbuild_259
@@ -799,46 +799,46 @@ TextureImporter:
     second: mainlevbuild_264
   - first:
       213: 4800251900128094889
-    second: mainlevbuild_265
+    second: bridge_edge_left2
   - first:
       213: -766322625573336925
-    second: mainlevbuild_266
+    second: bridge1.2
   - first:
       213: 8196245442417882068
-    second: mainlevbuild_267
+    second: bridge2.2
   - first:
       213: -6553891722100108193
-    second: mainlevbuild_268
+    second: bridge3.2
   - first:
       213: 7702219297177688118
-    second: mainlevbuild_269
+    second: bridge4.2
   - first:
       213: -2424190787140622858
-    second: mainlevbuild_270
+    second: bridge_edge_right_grass3
   - first:
       213: -5196405589854760078
-    second: mainlevbuild_271
+    second: bridge_edge_right_grass4
   - first:
       213: 393623265454087059
-    second: mainlevbuild_272
+    second: bridge_edge_left_grass3
   - first:
       213: 4811402628189813401
-    second: mainlevbuild_273
+    second: bridge_edge_left_grass4
   - first:
       213: 7119576496658899128
-    second: mainlevbuild_274
+    second: bridge5.2
   - first:
       213: 3850994917434228328
-    second: mainlevbuild_275
+    second: bridge6.2
   - first:
       213: -1525489120090052044
-    second: mainlevbuild_276
+    second: bridge7.2
   - first:
       213: -4371226327010331988
-    second: mainlevbuild_277
+    second: bridge8.2
   - first:
       213: 847540893180063586
-    second: mainlevbuild_278
+    second: bridge_edge_right2
   - first:
       213: 4796705228352576524
     second: mainlevbuild_279
@@ -859,16 +859,16 @@ TextureImporter:
     second: log_big2
   - first:
       213: -7819136443319460059
-    second: mainlevbuild_285
+    second: grass_tower_left1.1
   - first:
       213: -3401945599851305505
-    second: mainlevbuild_286
+    second: grass_tower_left1.2
   - first:
       213: -2937793313112793518
-    second: mainlevbuild_287
+    second: grass_tower_right1.1
   - first:
       213: -7835062897715010805
-    second: mainlevbuild_288
+    second: grass_tower_right1.2
   - first:
       213: -5934064798750974238
     second: mainlevbuild_289
@@ -913,16 +913,16 @@ TextureImporter:
     second: log_med2
   - first:
       213: 2263317381220197770
-    second: mainlevbuild_303
+    second: grass_tower_left2.1
   - first:
       213: -1685479542591696907
-    second: mainlevbuild_304
+    second: grass_tower_left2.2
   - first:
       213: -2649759446443003277
-    second: mainlevbuild_305
+    second: grass_tower_right2.1
   - first:
       213: -4815520832517446248
-    second: mainlevbuild_306
+    second: grass_tower_right2.2
   - first:
       213: -2997251031259021798
     second: mainlevbuild_307
@@ -961,16 +961,16 @@ TextureImporter:
     second: log_small2
   - first:
       213: -7028461134383606823
-    second: mainlevbuild_319
+    second: grass_tower_left3.1
   - first:
       213: -4674847255848357472
-    second: mainlevbuild_320
+    second: grass_tower_left3.2
   - first:
       213: -7644336671420115328
-    second: mainlevbuild_321
+    second: grass_tower_right3.1
   - first:
       213: -6743225454995212980
-    second: mainlevbuild_322
+    second: grass_tower_right3.2
   - first:
       213: -3128999933988736491
     second: mainlevbuild_323
@@ -1030,16 +1030,16 @@ TextureImporter:
     second: grass_4.1
   - first:
       213: 849469429935290704
-    second: mainlevbuild_342
+    second: grass_tower_left4.1
   - first:
       213: 394389059918955840
-    second: mainlevbuild_343
+    second: grass_tower_left4.2
   - first:
       213: -6825301134538938778
-    second: mainlevbuild_344
+    second: grass_tower_right4.1
   - first:
       213: -9205614413842001673
-    second: mainlevbuild_345
+    second: grass_tower_right4.2
   - first:
       213: 6987956596408980050
     second: mainlevbuild_346
@@ -1129,16 +1129,16 @@ TextureImporter:
     second: grass_4.2
   - first:
       213: -2422818519809444445
-    second: mainlevbuild_375
+    second: grass_inner_corner_bottom_right1
   - first:
       213: -7101934628291249707
-    second: mainlevbuild_376
+    second: grass_inner_corner_bottom_right2
   - first:
       213: -4665470454637586635
-    second: mainlevbuild_377
+    second: grass_inner_corner_bottom_left1
   - first:
       213: 4143928802839496455
-    second: mainlevbuild_378
+    second: grass_inner_corner_bottom_left2
   - first:
       213: -6412084603674749503
     second: mainlevbuild_379
@@ -1228,16 +1228,16 @@ TextureImporter:
     second: grass_4.3
   - first:
       213: 5916867040407998093
-    second: mainlevbuild_408
+    second: grass_inner_corner_bottom_right3
   - first:
       213: 483156494785144079
-    second: mainlevbuild_409
+    second: grass_inner_corner_bottom_right4
   - first:
       213: 428496299318581819
-    second: mainlevbuild_410
+    second: grass_inner_corner_bottom_left3
   - first:
       213: 123570389804522891
-    second: mainlevbuild_411
+    second: grass_inner_corner_bottom_left4
   - first:
       213: -1011706821013102308
     second: mainlevbuild_412
@@ -7735,7 +7735,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_171
+      name: platform1.1
       rect:
         serializedVersion: 2
         x: 960
@@ -7756,7 +7756,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_172
+      name: platform2.1
       rect:
         serializedVersion: 2
         x: 976
@@ -7906,7 +7906,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_179
+      name: slope_left1.1
       rect:
         serializedVersion: 2
         x: 288
@@ -7917,7 +7917,10 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: -8, y: -8}
+        - {x: -8, y: -8}
       tessellationDetail: 0
       bones: []
       spriteID: 124fdf11f9f4183458d256e5d634aff1
@@ -8116,7 +8119,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_189
+      name: platform1.2
       rect:
         serializedVersion: 2
         x: 960
@@ -8137,7 +8140,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_190
+      name: platform2.2
       rect:
         serializedVersion: 2
         x: 976
@@ -8312,7 +8315,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_198
+      name: slope_left1.2
       rect:
         serializedVersion: 2
         x: 288
@@ -8323,7 +8326,11 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 0}
       tessellationDetail: 0
       bones: []
       spriteID: 8094202f1f4c0d640936b1e953073755
@@ -8333,7 +8340,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_199
+      name: slope_left2.1
       rect:
         serializedVersion: 2
         x: 304
@@ -8344,7 +8351,10 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -8, y: 0}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
       tessellationDetail: 0
       bones: []
       spriteID: 55af9ba825b776344b2e456627abaf20
@@ -8627,7 +8637,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_213
+      name: grass_tower_top_left1
       rect:
         serializedVersion: 2
         x: 176
@@ -8648,7 +8658,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_214
+      name: grass_tower_top_left2
       rect:
         serializedVersion: 2
         x: 192
@@ -8669,7 +8679,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_215
+      name: grass_tower_top_right1
       rect:
         serializedVersion: 2
         x: 208
@@ -8690,7 +8700,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_216
+      name: grass_tower_top_right2
       rect:
         serializedVersion: 2
         x: 224
@@ -8753,7 +8763,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_219
+      name: slope_left1.3
       rect:
         serializedVersion: 2
         x: 288
@@ -8774,7 +8784,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_220
+      name: slope_left2.2
       rect:
         serializedVersion: 2
         x: 304
@@ -8984,7 +8994,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_230
+      name: grass_tower_top_left3
       rect:
         serializedVersion: 2
         x: 176
@@ -9005,7 +9015,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_231
+      name: grass_tower_top_left4
       rect:
         serializedVersion: 2
         x: 192
@@ -9026,7 +9036,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_232
+      name: grass_tower_top_right3
       rect:
         serializedVersion: 2
         x: 208
@@ -9047,7 +9057,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_233
+      name: grass_tower_top_right4
       rect:
         serializedVersion: 2
         x: 224
@@ -9110,7 +9120,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_236
+      name: slope_left1.4
       rect:
         serializedVersion: 2
         x: 288
@@ -9131,7 +9141,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_237
+      name: slope_left2.3
       rect:
         serializedVersion: 2
         x: 304
@@ -9299,7 +9309,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_245
+      name: bridge_edge_left1
       rect:
         serializedVersion: 2
         x: 96
@@ -9310,7 +9320,10 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: 3, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: -8}
       tessellationDetail: 0
       bones: []
       spriteID: a63834b75401e8d43918c744c5b19811
@@ -9320,7 +9333,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_246
+      name: bridge1.1
       rect:
         serializedVersion: 2
         x: 112
@@ -9331,7 +9344,10 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 0, y: -8}
       tessellationDetail: 0
       bones: []
       spriteID: 070c9af1ac7232046bf757019fdd088d
@@ -9341,7 +9357,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_247
+      name: bridge2.1
       rect:
         serializedVersion: 2
         x: 128
@@ -9352,7 +9368,10 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 0, y: -8}
       tessellationDetail: 0
       bones: []
       spriteID: 811e964e884c472439afdad3103b1c96
@@ -9362,7 +9381,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_248
+      name: bridge3.1
       rect:
         serializedVersion: 2
         x: 144
@@ -9373,7 +9392,10 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 0, y: -8}
       tessellationDetail: 0
       bones: []
       spriteID: 109243ef4c7a8cf41a4ed0d4910c3ecd
@@ -9383,7 +9405,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_249
+      name: bridge44.1
       rect:
         serializedVersion: 2
         x: 160
@@ -9394,7 +9416,10 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 0, y: -8}
       tessellationDetail: 0
       bones: []
       spriteID: f64e6c9405ea9cc499512a9691095676
@@ -9404,7 +9429,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_250
+      name: bridge_edge_right_grass1
       rect:
         serializedVersion: 2
         x: 176
@@ -9415,7 +9440,12 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -3, y: 8}
+        - {x: -3, y: -8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
       spriteID: 9fc3060dcbe2b4b4b9ea238f860534f3
@@ -9425,7 +9455,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_251
+      name: bridge_edge_right_grass2
       rect:
         serializedVersion: 2
         x: 192
@@ -9446,7 +9476,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_252
+      name: bridge_edge_left_grass1
       rect:
         serializedVersion: 2
         x: 208
@@ -9467,7 +9497,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_253
+      name: bridge_edge_left_grass2
       rect:
         serializedVersion: 2
         x: 224
@@ -9478,7 +9508,12 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: 3, y: 8}
+        - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 3, y: -8}
       tessellationDetail: 0
       bones: []
       spriteID: 2aadfebbb8c32244fa4a6b85e9a1f7a1
@@ -9488,7 +9523,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_254
+      name: bridge5.1
       rect:
         serializedVersion: 2
         x: 240
@@ -9499,7 +9534,10 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 0, y: -8}
       tessellationDetail: 0
       bones: []
       spriteID: 2207e6ae33e5e5a42adc8900e46056ca
@@ -9509,7 +9547,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_255
+      name: bridge6.1
       rect:
         serializedVersion: 2
         x: 256
@@ -9520,7 +9558,10 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 0, y: -8}
       tessellationDetail: 0
       bones: []
       spriteID: 0dcd35cb6ba805c40a8d69294421eeec
@@ -9530,7 +9571,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_256
+      name: bridge7.1
       rect:
         serializedVersion: 2
         x: 272
@@ -9541,7 +9582,10 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 0, y: -8}
       tessellationDetail: 0
       bones: []
       spriteID: f953c5fe479df884f9cf31aecb2f9235
@@ -9551,7 +9595,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_257
+      name: bridge8.1
       rect:
         serializedVersion: 2
         x: 288
@@ -9562,7 +9606,10 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 0, y: -8}
       tessellationDetail: 0
       bones: []
       spriteID: 3ecca5319e008d6448e1bb7c2371fb8f
@@ -9572,7 +9619,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_258
+      name: bridge_edge_right1
       rect:
         serializedVersion: 2
         x: 304
@@ -9583,7 +9630,10 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -6, y: -8}
+        - {x: -8, y: -8}
+        - {x: -3, y: -8}
       tessellationDetail: 0
       bones: []
       spriteID: b067e626ee2f9f9449a71f0cb2b88a2e
@@ -9719,7 +9769,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_265
+      name: bridge_edge_left2
       rect:
         serializedVersion: 2
         x: 96
@@ -9730,7 +9780,12 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: 3, y: 8}
+        - {x: 3, y: 6}
+        - {x: 8, y: -1}
+        - {x: 8, y: -3}
+        - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
       spriteID: 13b9cd17aaabdcd468552bbcefecc4ee
@@ -9740,7 +9795,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_266
+      name: bridge1.2
       rect:
         serializedVersion: 2
         x: 112
@@ -9751,7 +9806,11 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: 8, y: 8}
+        - {x: -8, y: 8}
+        - {x: -8, y: -3}
+        - {x: 8, y: -3}
       tessellationDetail: 0
       bones: []
       spriteID: e60b3f6292eeae44e9386a0ff1cf4eae
@@ -9761,7 +9820,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_267
+      name: bridge2.2
       rect:
         serializedVersion: 2
         x: 128
@@ -9772,7 +9831,11 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: 8, y: 8}
+        - {x: -8, y: 8}
+        - {x: -8, y: -3}
+        - {x: 8, y: -3}
       tessellationDetail: 0
       bones: []
       spriteID: 0532fba2dc588f44e9e654e8d1075473
@@ -9782,7 +9845,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_268
+      name: bridge3.2
       rect:
         serializedVersion: 2
         x: 144
@@ -9793,7 +9856,11 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: 8, y: 8}
+        - {x: -8, y: 8}
+        - {x: -8, y: -3}
+        - {x: 8, y: -3}
       tessellationDetail: 0
       bones: []
       spriteID: e94534681d7499a4ab1b2bd0ffe2dd83
@@ -9803,7 +9870,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_269
+      name: bridge4.2
       rect:
         serializedVersion: 2
         x: 160
@@ -9814,7 +9881,11 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: 8, y: 8}
+        - {x: -8, y: 8}
+        - {x: -8, y: -3}
+        - {x: 8, y: -3}
       tessellationDetail: 0
       bones: []
       spriteID: 7c5387cdb6f0ad946a0be96261c7e495
@@ -9824,7 +9895,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_270
+      name: bridge_edge_right_grass3
       rect:
         serializedVersion: 2
         x: 176
@@ -9845,7 +9916,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_271
+      name: bridge_edge_right_grass4
       rect:
         serializedVersion: 2
         x: 192
@@ -9866,7 +9937,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_272
+      name: bridge_edge_left_grass3
       rect:
         serializedVersion: 2
         x: 208
@@ -9887,7 +9958,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_273
+      name: bridge_edge_left_grass4
       rect:
         serializedVersion: 2
         x: 224
@@ -9908,7 +9979,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_274
+      name: bridge5.2
       rect:
         serializedVersion: 2
         x: 240
@@ -9919,7 +9990,11 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: 8, y: 8}
+        - {x: -8, y: 8}
+        - {x: -8, y: -3}
+        - {x: 8, y: -3}
       tessellationDetail: 0
       bones: []
       spriteID: 0f90e442c37892b478867850229da969
@@ -9929,7 +10004,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_275
+      name: bridge6.2
       rect:
         serializedVersion: 2
         x: 256
@@ -9940,7 +10015,11 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: 8, y: 8}
+        - {x: -8, y: 8}
+        - {x: -8, y: -3}
+        - {x: 8, y: -3}
       tessellationDetail: 0
       bones: []
       spriteID: 2b7d989a1ac240248bf61f62e126dffb
@@ -9950,7 +10029,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_276
+      name: bridge7.2
       rect:
         serializedVersion: 2
         x: 272
@@ -9961,7 +10040,11 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: 8, y: 8}
+        - {x: -8, y: 8}
+        - {x: -8, y: -3}
+        - {x: 8, y: -3}
       tessellationDetail: 0
       bones: []
       spriteID: ae30c3e11e1a0c84b8e0493f0346a3e1
@@ -9971,7 +10054,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_277
+      name: bridge8.2
       rect:
         serializedVersion: 2
         x: 288
@@ -9982,7 +10065,11 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: 8, y: 8}
+        - {x: -8, y: 8}
+        - {x: -8, y: -3}
+        - {x: 8, y: -3}
       tessellationDetail: 0
       bones: []
       spriteID: 6ed7f2971756a704bb2d60a0ab53334d
@@ -9992,7 +10079,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_278
+      name: bridge_edge_right2
       rect:
         serializedVersion: 2
         x: 304
@@ -10003,7 +10090,11 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -2}
+        - {x: -8, y: 0}
+        - {x: -3, y: 8}
       tessellationDetail: 0
       bones: []
       spriteID: e8a4d82c81962614eb7269461c92db7d
@@ -10147,7 +10238,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_285
+      name: grass_tower_left1.1
       rect:
         serializedVersion: 2
         x: 176
@@ -10168,7 +10259,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_286
+      name: grass_tower_left1.2
       rect:
         serializedVersion: 2
         x: 192
@@ -10189,7 +10280,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_287
+      name: grass_tower_right1.1
       rect:
         serializedVersion: 2
         x: 208
@@ -10210,7 +10301,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_288
+      name: grass_tower_right1.2
       rect:
         serializedVersion: 2
         x: 224
@@ -10541,7 +10632,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_303
+      name: grass_tower_left2.1
       rect:
         serializedVersion: 2
         x: 176
@@ -10562,7 +10653,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_304
+      name: grass_tower_left2.2
       rect:
         serializedVersion: 2
         x: 192
@@ -10583,7 +10674,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_305
+      name: grass_tower_right2.1
       rect:
         serializedVersion: 2
         x: 208
@@ -10604,7 +10695,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_306
+      name: grass_tower_right2.2
       rect:
         serializedVersion: 2
         x: 224
@@ -10901,7 +10992,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_319
+      name: grass_tower_left3.1
       rect:
         serializedVersion: 2
         x: 176
@@ -10922,7 +11013,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_320
+      name: grass_tower_left3.2
       rect:
         serializedVersion: 2
         x: 192
@@ -10943,7 +11034,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_321
+      name: grass_tower_right3.1
       rect:
         serializedVersion: 2
         x: 208
@@ -10964,7 +11055,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_322
+      name: grass_tower_right3.2
       rect:
         serializedVersion: 2
         x: 224
@@ -11435,7 +11526,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_342
+      name: grass_tower_left4.1
       rect:
         serializedVersion: 2
         x: 176
@@ -11456,7 +11547,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_343
+      name: grass_tower_left4.2
       rect:
         serializedVersion: 2
         x: 192
@@ -11477,7 +11568,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_344
+      name: grass_tower_right4.1
       rect:
         serializedVersion: 2
         x: 208
@@ -11498,7 +11589,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_345
+      name: grass_tower_right4.2
       rect:
         serializedVersion: 2
         x: 224
@@ -12128,7 +12219,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_375
+      name: grass_inner_corner_bottom_right1
       rect:
         serializedVersion: 2
         x: 176
@@ -12149,7 +12240,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_376
+      name: grass_inner_corner_bottom_right2
       rect:
         serializedVersion: 2
         x: 192
@@ -12170,7 +12261,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_377
+      name: grass_inner_corner_bottom_left1
       rect:
         serializedVersion: 2
         x: 208
@@ -12191,7 +12282,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_378
+      name: grass_inner_corner_bottom_left2
       rect:
         serializedVersion: 2
         x: 224
@@ -12821,7 +12912,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_408
+      name: grass_inner_corner_bottom_right3
       rect:
         serializedVersion: 2
         x: 176
@@ -12842,7 +12933,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_409
+      name: grass_inner_corner_bottom_right4
       rect:
         serializedVersion: 2
         x: 192
@@ -12863,7 +12954,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_410
+      name: grass_inner_corner_bottom_left3
       rect:
         serializedVersion: 2
         x: 208
@@ -12884,7 +12975,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_411
+      name: grass_inner_corner_bottom_left4
       rect:
         serializedVersion: 2
         x: 224
